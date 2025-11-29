@@ -200,10 +200,4 @@ mvn clean install -DskipTests
 2. **Factory Pattern** - Creating appropriate card objects based on validation
 3. **Adapter Pattern** - Abstracting different file format handling
 
-## Author Notes
 
-This project demonstrates the practical application of design patterns in a real-world scenario. The separation of concerns and use of interfaces makes the code:
-- Extensible (easy to add new card types or formats)
-- Testable (each component can be tested independently)
-- Maintainable (clear responsibilities)
-- Flexible (strategies can be swapped without affecting clients)
