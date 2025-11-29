@@ -1,0 +1,4 @@
+com/creditcard/parser/FileParserTest.class
+com/creditcard/processor/CardProcessorTest.class
+com/creditcard/validation/CardValidatorTest.class
+com/creditcard/CreditCardValidatorIntegrationTest.class
